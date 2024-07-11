@@ -3,7 +3,7 @@
 - 👀 Full-Stack Developer interested in creating meaningful projects that make a positive impact
 - 📍 Living in Wellington, New Zealand
 - 💞️ Things I'm enjoying: Catching up on my TBR 📚 and exploring photography with my camera 📸
-- 📫 Reach me at sarahsitu563@gmail.com
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sarah-situ-b74358299) or sarahsitu563@gmail.com
   
 <!--- 🌱 I’m currently learning ...--->
 <!---
