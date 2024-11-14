@@ -1,8 +1,9 @@
 ## 👋 Kia ora, I'm Sarah
 - 🎓 Recent grad from Dev Academy Aotearoa
 - 👀 Full-Stack Developer interested in creating meaningful projects that make a positive impact
+- 🌱 I’m currently learning Next.js and brushing up on my React knowledge!
 - 📍 Living in Wellington, New Zealand
-- 💞️ Things I'm enjoying: Catching up on my TBR 📚 and exploring photography with my camera 📸
+- 🤗 Things I'm enjoying: Salsa dancing, reading, spending time with family/friends, and being in nature.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sarah-situ-b74358299) or sarahsitu563@gmail.com
   
 <!--- 🌱 I’m currently learning ...--->
